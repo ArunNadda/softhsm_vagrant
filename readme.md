@@ -3,7 +3,7 @@
 - this repo is to setup softhsm node
 - once started, slot details can be queried using below command
 
-
+```
 $ sudo softhsm2-util --show-slots
 Available slots:
 Slot 2063597501
@@ -38,3 +38,4 @@ Slot 1
         Initialized:      no
         User PIN init.:   no
         Label:
+```
